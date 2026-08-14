@@ -26,7 +26,7 @@
       <li>Aespa: Winter</li>
       <li>Project Sekai: Honami & Ichika</li>
       <li>Limbus Company: Gregor & Meursault</li>
-      <li>Wuthering Waves: Jinhsi & Sanhua</li>
+      <li>Wuthering Waves: Jinhsi & Sanhua & Danjin</li>
     </ul>
     <br clear="right"/>
   </div>
