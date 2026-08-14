@@ -4,4 +4,4 @@
 
 Coming Soon...
 
-![seonghwa](images/seonghwa.jpg) ![jongho](images/jongho.jpg)
+<img src="images/seonghwa.jpg" width:48% /> <img src="images/jongho.jpg" width:48% />
