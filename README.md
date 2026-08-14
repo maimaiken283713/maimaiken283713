@@ -16,10 +16,10 @@
     <p></p>
   </div>
 
-  <div width=24% align="left">
+  <div>
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
-    <ul>
+    <ul width=24% align="left">
       <li>Ateez: Seonghwa & Jongho</li>
       <li>Seventeen: DK & Jun</li>
       <li>Xikers: Seeun & Junmin</li>
@@ -28,5 +28,10 @@
       <li>Limbus Company: Gregor & Meursault</li>
       <li>Wuthering Waves: Jinhsi & Sanhua</li>
     </ul>
+    <img align="right" src="images/jjonghwa.png" width="74%"/>
+    <br clear="left" />
   </div>
+
+  <img align="left" src="https://placeholder.com" alt="Your Image" width="150" style="margin-right: 10px;">
+  
 </div>
