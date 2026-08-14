@@ -32,6 +32,4 @@
     <br clear="left" />
   </div>
 
-  <img align="left" src="https://placeholder.com" alt="Your Image" width="150" style="margin-right: 10px;">
-  
 </div>
