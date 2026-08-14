@@ -28,7 +28,6 @@
       <li>Limbus Company: Gregor & Meursault</li>
       <li>Wuthering Waves: Jinhsi & Sanhua</li>
     </ul>
-    <img align="right" src="images/jjonghwa.png" width="150px"/>
     <br clear="left" />
   </div>
 
