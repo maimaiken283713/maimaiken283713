@@ -16,7 +16,7 @@
     <p></p>
   </div>
 
-  <div>
+  <div align="center">
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
     <p>Ateez: Seonghwa & Jongho</p>
