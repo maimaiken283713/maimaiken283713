@@ -18,7 +18,7 @@
   <div>
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
-    <img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200"> <img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200">    
+    <img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200"> <img align="right" src="images/jjonghwa1.png" alt="Your Image Description" width="200">    
     <ul >
       <li>Ateez: Seonghwa & Jongho</li>
       <li>Seventeen: DK & Jun</li>
