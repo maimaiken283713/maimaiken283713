@@ -15,11 +15,11 @@
     <p>i am a freelance artist and programmer. i also do a lot of game dev!</p>
     <p></p>
   </div>
-
+<img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200">
   <div>
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
-    <ul align="left">
+    <ul >
       <li>Ateez: Seonghwa & Jongho</li>
       <li>Seventeen: DK & Jun</li>
       <li>Xikers: Seeun & Junmin</li>
@@ -28,15 +28,7 @@
       <li>Limbus Company: Gregor & Meursault</li>
       <li>Wuthering Waves: Jinhsi & Sanhua</li>
     </ul>
-    <br clear="left" />
   </div>
-
-<img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200">
-
-<div>
-  <h3>Your Left Header</h3>
-  <p>This text lives inside a div on the left side, while the image floats completely to the right edge.</p>
-</div>
 <br clear="right"/>
 
 </div>
