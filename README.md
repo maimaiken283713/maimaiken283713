@@ -19,12 +19,14 @@
   <div align="center">
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
-    <p>Ateez: Seonghwa & Jongho</p>
-    <p>Seventeen: DK & Jun</p>
-    <p>Xikers: Seeun & Junmin</p>
-    <p>Aespa: Winter</p>
-    <p>Project Sekai: Honami & Ichika</p>
-    <p>Limbus Company: Gregor & Meursault</p>
-    <p>Wuthering Waves: Jinhsi & Sanhua</p>
+    <ul>
+      <li>Ateez: Seonghwa & Jongho</li>
+      <li>Seventeen: DK & Jun</li>
+      <li>Xikers: Seeun & Junmin</li>
+      <li>Aespa: Winter</li>
+      <li>Project Sekai: Honami & Ichika</li>
+      <li>Limbus Company: Gregor & Meursault</li>
+      <li>Wuthering Waves: Jinhsi & Sanhua</li>
+    </ul>
   </div>
 </div>
