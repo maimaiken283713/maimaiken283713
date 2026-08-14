@@ -4,5 +4,6 @@
 
 Coming Soon...
 
-
-<img src="images/seonghwa.jpg" width=48%/> <img src="images/jongho.jpg" width=48% />
+<div align="center">
+  <img src="images/seonghwa.jpg" width=48%/> <img src="images/jongho.jpg" width=48% />
+</div>
