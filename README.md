@@ -32,13 +32,13 @@
     <br clear="left" />
   </div>
 
-  <img align="left" src="images/jjonghwa.png" alt="Your Image" width="150" style="margin-right: 10px;">
 
 <div>
   <h3>Your Heading Here</h3>
   <p>This div block will start on the right side of the image and wrap underneath it if the text is long enough.</p>
 </div>
+<img align="right" src="images/jjonghwa.png" alt="Your Image" width="150" style="margin-left: 10px;">
 
-<br clear="left" />
+<br clear="right" />
 
 </div>
