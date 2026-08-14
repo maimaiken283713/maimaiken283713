@@ -16,7 +16,7 @@
     <p></p>
   </div>
 
-  <div align="center">
+  <div>
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
     <ul>
