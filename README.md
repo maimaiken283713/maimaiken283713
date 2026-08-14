@@ -15,10 +15,10 @@
     <p>i am a freelance artist and programmer. i also do a lot of game dev!</p>
     <p></p>
   </div>
-<img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200">
   <div>
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
+    <img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200">    
     <ul >
       <li>Ateez: Seonghwa & Jongho</li>
       <li>Seventeen: DK & Jun</li>
@@ -28,7 +28,7 @@
       <li>Limbus Company: Gregor & Meursault</li>
       <li>Wuthering Waves: Jinhsi & Sanhua</li>
     </ul>
+    <br clear="right"/>
   </div>
-<br clear="right"/>
 
 </div>
