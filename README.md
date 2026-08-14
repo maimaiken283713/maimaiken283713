@@ -31,14 +31,12 @@
     <br clear="left" />
   </div>
 
-<img align="right" src="images/jjonghwa.png" width="150px"/>
+<img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200">
 
 <div>
-  <h3>Your Heading Here</h3>
-  <p>This div block will start on the right side of the image and wrap underneath it if the text is long enough.</p>
+  <h3>Your Left Header</h3>
+  <p>This text lives inside a div on the left side, while the image floats completely to the right edge.</p>
 </div>
-<img align="right" src="images/jjonghwa.png" alt="Your Image" width="150" style="margin-left: 10px;">
-
-<br clear="right" />
+<br clear="right"/>
 
 </div>
