@@ -16,7 +16,7 @@
     <p></p>
   </div>
 
-  <div>
+  <div align="left">
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
     <ul>
@@ -29,4 +29,5 @@
       <li>Wuthering Waves: Jinhsi & Sanhua</li>
     </ul>
   </div>
+  <img src="images/jjonghwa.png" align="right"/>
 </div>
