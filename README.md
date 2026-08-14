@@ -31,6 +31,7 @@
     <br clear="left" />
   </div>
 
+<img align="right" src="images/jjonghwa.png" width="150px"/>
 
 <div>
   <h3>Your Heading Here</h3>
