@@ -31,4 +31,15 @@
     <br clear="right"/>
   </div>
 
+  <div>
+    <h2>active games !!!</h2>
+    <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
+    <ul>
+      <li>Phigros (@shion_019)</li>
+      <li>Flock Around</li>
+      <li>Dark Souls 3</li>
+      <li>The Talos Principle</li>
+    </ul>
+  </div>
+
 </div>
