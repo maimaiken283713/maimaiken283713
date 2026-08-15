@@ -11,7 +11,7 @@
 
   <div id="introduction" align="center">
     <p>hello !! i'm maimai !! i'm usually afking- but please dont be scared to interact !! C+H</p>
-    <p>i usually hang out around the bakery in both safe server and 18+ ^^</p>
+    <p>i usually hang out around the bakery in both safe and 18+ server ^^</p>
     <p>i am a freelance artist and programmer. i also do a lot of game dev!</p>
     <p></p>
   </div>
