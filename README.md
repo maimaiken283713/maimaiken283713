@@ -19,7 +19,7 @@
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
     <img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200"> <img align="right" src="images/jjonghwa1.png" alt="Your Image Description" width="200">    
-    <ul >
+    <ul style="list-style-type: square;">
       <li>Ateez: Seonghwa & Jongho</li>
       <li>Seventeen: DK & Jun</li>
       <li>Xikers: Seeun & Junmin</li>
@@ -34,7 +34,7 @@
   <div>
     <h2>active games !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
-    <ul>
+    <ul style="list-style-type: square;">
       <li>Phigros (@shion_019)</li>
       <li>Flock Around</li>
       <li>Dark Souls 3</li>
