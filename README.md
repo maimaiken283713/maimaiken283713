@@ -27,6 +27,7 @@
       <li>Project Sekai: Honami & Ichika</li>
       <li>Limbus Company: Gregor & Meursault</li>
       <li>Wuthering Waves: Jinhsi & Sanhua & Danjin</li>
+      <li>Lucy: love them all lol</li>
     </ul>
     <br clear="right"/>
   </div>
