@@ -36,7 +36,7 @@
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
     <ul style="list-style-type: square;">
       <li>Phigros (@shion_019)</li>
-      <li>Flock Around</li>
+      <li>Everhood</li>
       <li>Dark Souls 3</li>
       <li>The Talos Principle</li>
     </ul>
